@@ -926,7 +926,7 @@ form button{
     border-style: solid;
     border-width: 180px 180px;
     content: "";
-    left: -30%;
+    left: -50%;
     position: absolute;
     top: -70%;
     transform: skewY(135deg);
